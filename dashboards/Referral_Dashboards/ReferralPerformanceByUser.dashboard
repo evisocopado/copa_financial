@@ -359,7 +359,7 @@
     <dashboardType>LoggedInUser</dashboardType>
     <description>User Referrals By Made and Received</description>
     <isGridLayout>true</isGridLayout>
-    <runningUser>eviso-sbbq@force.com</runningUser>
+    <runningUser>eviso-zbpa@force.com</runningUser>
     <textColor>#000000</textColor>
     <title>Referral Performance by User</title>
     <titleColor>#000000</titleColor>

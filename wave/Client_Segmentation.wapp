@@ -5,7 +5,7 @@
     <masterLabel>Client Segmentation</masterLabel>
     <shares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>eviso-sbbq@force.com</sharedTo>
+        <sharedTo>eviso-zbpa@force.com</sharedTo>
         <sharedToType>User</sharedToType>
     </shares>
     <templateOrigin>sfdc_internal__ClientSegmentationApp</templateOrigin>

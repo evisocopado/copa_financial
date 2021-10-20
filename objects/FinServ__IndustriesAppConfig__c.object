@@ -8,7 +8,7 @@
         <deprecated>false</deprecated>
         <description>Define an individual&apos;s account name format</description>
         <externalId>false</externalId>
-        <inlineHelpText>Los nombres de cuentas se muestran de forma predeterminada: {firstname} {lastname}. Para cambiar el orden, introduzca: {lastname} {firstname}</inlineHelpText>
+        <inlineHelpText>By default, account names are displayed: {firstname} {lastname}. To change the order, enter: {lastname} {firstname}</inlineHelpText>
         <label>Account Name Format</label>
         <length>255</length>
         <required>false</required>
@@ -103,7 +103,7 @@
         <deprecated>false</deprecated>
         <description>Specifies the REST API version when retrieving page layout information</description>
         <externalId>false</externalId>
-        <inlineHelpText>Por ejemplo: v32.0</inlineHelpText>
+        <inlineHelpText>For example : v32.0</inlineHelpText>
         <label>Page Layout Api Version</label>
         <length>10</length>
         <required>false</required>
@@ -117,7 +117,7 @@
         <deprecated>false</deprecated>
         <description>Restrict Visibility on ACR Records.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Solo los usuarios con al menos acceso de lectura a la cuenta y contacto en un registro de relación de cuenta-contacto pueden ver el registro en componentes de relación.</inlineHelpText>
+        <inlineHelpText>Only users with at least read access to the account and contact in an account-contact relationship record can see the record in relationship components.</inlineHelpText>
         <label>Restrict ACR Record Visibility</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
@@ -128,7 +128,7 @@
         <deprecated>false</deprecated>
         <description>Shows detailed error messages</description>
         <externalId>false</externalId>
-        <inlineHelpText>Muestra un mensaje de error detallado cuando alguien realiza una acción sin tener permiso.</inlineHelpText>
+        <inlineHelpText>Show a detailed error message when someone performs an action without having permission.</inlineHelpText>
         <label>Show Detailed Error Messages</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
@@ -139,7 +139,7 @@
         <deprecated>false</deprecated>
         <description>Indicates whether Account and Contact system fields are kept in sync when an insert is performed on either entity.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Sincroniza los campos Cuenta y Contacto cuando se crean los registros en el modelo de objeto individual.</inlineHelpText>
+        <inlineHelpText>Sync Account and Contact fields when records are created in the individual object model.</inlineHelpText>
         <label>Sync Individual System Fields</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>

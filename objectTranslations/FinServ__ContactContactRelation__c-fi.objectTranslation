@@ -429,12 +429,12 @@
     <fields>
         <label><!-- Related Contact --></label>
         <name>FinServ__RelatedContact__c</name>
-        <relationshipLabel><!-- Relaciones contacto-contacto (Contacto relacionado) --></relationshipLabel>
+        <relationshipLabel><!-- Contact Contact Relations (Related Contact) --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Related Role --></label>
         <name>FinServ__Role__c</name>
-        <relationshipLabel><!-- Relaciones contacto-contacto --></relationshipLabel>
+        <relationshipLabel><!-- Contact Contact Relations --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Source System ID --></label>

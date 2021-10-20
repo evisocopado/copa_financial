@@ -7,7 +7,7 @@
     <fields>
         <label><!-- Account --></label>
         <name>FinServ__Account__c</name>
-        <relationshipLabel><!-- Relaciones cuenta-cuenta (Cuenta) --></relationshipLabel>
+        <relationshipLabel><!-- Account Account Relations (Account) --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Active --></label>
@@ -45,12 +45,12 @@
     <fields>
         <label><!-- Related Account --></label>
         <name>FinServ__RelatedAccount__c</name>
-        <relationshipLabel><!-- Relaciones cuenta-cuenta (Cuenta relacionada) --></relationshipLabel>
+        <relationshipLabel><!-- Account Account Relations (Related Account) --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Related Role --></label>
         <name>FinServ__Role__c</name>
-        <relationshipLabel><!-- Relaciones cuenta-cuenta --></relationshipLabel>
+        <relationshipLabel><!-- Account Account Relations --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Source System ID --></label>

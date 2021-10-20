@@ -3,75 +3,99 @@
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -79,91 +103,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -201,89 +201,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityRevenue</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -291,91 +315,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -413,89 +413,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityQuantity</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -503,95 +527,71 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SPLITAMOUNT</field>
-            <label>Importe de previsión</label>
+            <label>Forecasted Amount</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -630,89 +630,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityLineItemRevenue</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -720,91 +744,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -842,89 +842,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityLineItemQuantity</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -932,95 +956,71 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SPLITAMOUNT</field>
-            <label>Importe de previsión</label>
+            <label>Forecasted Amount</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1059,89 +1059,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityRevenueProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1149,91 +1173,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1271,89 +1271,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityQuantityProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1361,95 +1385,71 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SPLITAMOUNT</field>
-            <label>Importe de previsión</label>
+            <label>Forecasted Amount</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1488,89 +1488,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemRevenueProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1578,91 +1602,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1700,89 +1700,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemQuantityProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1790,95 +1814,71 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SPLITAMOUNT</field>
-            <label>Importe de previsión</label>
+            <label>Forecasted Amount</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1917,89 +1917,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityRevenueScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2007,91 +2031,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2129,89 +2129,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityQuantityScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2219,95 +2243,71 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SPLITAMOUNT</field>
-            <label>Importe de previsión</label>
+            <label>Forecasted Amount</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2346,89 +2346,113 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemRevenueScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
     <forecastingTypeObjectListSettings>
         <forecastingObjectListLabelMappings>
             <field>CREATEDBY_USER.ALIAS</field>
-            <label>Creado por alias</label>
+            <label>Created By Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7S</field>
+            <label>Loss Reason</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.AMOUNT</field>
-            <label>Importe</label>
+            <label>Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7R</field>
+            <label>ROI Analysis Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7Q</field>
+            <label>Discovery Completed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD7P</field>
+            <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSE_DATE</field>
-            <label>Fecha de cierre</label>
+            <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.TYPE</field>
-            <label>Tipo</label>
+            <label>Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Fecha de creación</label>
+            <label>Created Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Fecha de la última modificación</label>
+            <label>Last Modified Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Origen del candidato</label>
+            <label>Lead and Referral Source</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
-            <label>Ingresos previstos</label>
+            <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.CLOSED</field>
-            <label>Cerrado</label>
+            <label>Closed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
-            <label>Ganadas</label>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZD6f</field>
+            <label>Household</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
-            <label>Probabilidad (%)</label>
+            <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.ALIAS</field>
-            <label>Alias del propietario de la oportunidad</label>
+            <label>Opportunity Owner Alias</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDBp</field>
+            <label>Financial Account</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Última actividad</label>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFR</field>
+            <label>External Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
-            <label>Trimestre fiscal</label>
+            <label>Fiscal Quarter</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>DESCRIPTION</field>
-            <label>Descripción</label>
+            <label>Description</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Periodo fiscal</label>
+            <label>Fiscal Period</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FULL_NAME</field>
-            <label>Nombre completo del propietario</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZArw</field>
-            <label>Cuenta financiera</label>
+            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2436,91 +2460,67 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
-            <label>Última modificación por alias</label>
+            <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
-            <label>Etapa</label>
+            <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.NAME</field>
-            <label>Nombre del contrato</label>
+            <label>Contract Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
-            <label>Cantidad</label>
+            <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NAME</field>
-            <label>Nombre de la oportunidad</label>
+            <label>Opportunity Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
-            <label>Apellidos del propietario</label>
+            <label>Owner Last Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
-            <label>Presupuesto sincronizado</label>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N7Q000001ZDFS</field>
+            <label>Internal Referrer</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
-            <label>Año fiscal</label>
+            <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Tipo de registro de la oportunidad</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnZ</field>
-            <label>Loss Reason</label>
+            <label>Opportunity Record Type</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
-            <label>Nombre del propietario</label>
+            <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
-            <label>Sitio de la cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnY</field>
-            <label>ROI Analysis Completed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnX</field>
-            <label>Discovery Completed</label>
+            <label>Account Site</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
-            <label>Nombre de cuenta</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAnW</field>
-            <label>Budget Confirmed</label>
+            <label>Account Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PRIVATE</field>
-            <label>Privada</label>
+            <label>Private</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Número de contrato</label>
+            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
-            <label>Categoría de previsión</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvZ</field>
-            <label>Referente interno</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAvY</field>
-            <label>Referente externo</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>00N7Q000001ZAmm</field>
-            <label>Domicilio</label>
+            <label>Forecast Category</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2558,14 +2558,14 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7Q000001ZAnW</field>
-            <field>00N7Q000001ZArw</field>
-            <field>00N7Q000001ZAnX</field>
-            <field>00N7Q000001ZAmm</field>
-            <field>00N7Q000001ZAnZ</field>
-            <field>00N7Q000001ZAvY</field>
-            <field>00N7Q000001ZAvZ</field>
-            <field>00N7Q000001ZAnY</field>
+            <field>00N7Q000001ZD7P</field>
+            <field>00N7Q000001ZD7Q</field>
+            <field>00N7Q000001ZDFR</field>
+            <field>00N7Q000001ZDBp</field>
+            <field>00N7Q000001ZD6f</field>
+            <field>00N7Q000001ZDFS</field>
+            <field>00N7Q000001ZD7S</field>
+            <field>00N7Q000001ZD7R</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemQuantityScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>

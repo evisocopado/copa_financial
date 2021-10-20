@@ -170,7 +170,7 @@
     </fields>
     <fields>
         <fullName>LicenseClass</fullName>
-        <inlineHelpText>Especifica los tipos de licencias que una organización desea seguir.</inlineHelpText>
+        <inlineHelpText>Specifies the types of licenses that an organization wants to track.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>

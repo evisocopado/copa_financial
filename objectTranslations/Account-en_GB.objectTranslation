@@ -583,7 +583,7 @@
     <fields>
         <label><!-- Internal Referrer --></label>
         <name>FinServ__ReferredByUser__c</name>
-        <relationshipLabel><!-- Cuentas --></relationshipLabel>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Relationship Start Date --></label>

@@ -292,7 +292,7 @@
         <deprecated>false</deprecated>
         <description>The scheduled date and time of the send</description>
         <externalId>false</externalId>
-        <inlineHelpText>Fecha y hora a las que se ha programado el envío</inlineHelpText>
+        <inlineHelpText>The scheduled date and time of the send</inlineHelpText>
         <label>Send Time</label>
         <required>false</required>
         <trackHistory>false</trackHistory>

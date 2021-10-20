@@ -9,7 +9,7 @@
         <deprecated>false</deprecated>
         <description>All lists of campaign members pending Distributed Marketing user approval will be sorted by this field. Associate it to a field on the campaign member object.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Todas las listas de miembros de campañas pendientes de aprobación de usuario de Distributed Marketing se ordenarán por este campo. Asócielo a un campo en el objeto de miembro de campaña.</inlineHelpText>
+        <inlineHelpText>All lists of campaign members pending Distributed Marketing user approval will be sorted by this field. Associate it to a field on the campaign member object.</inlineHelpText>
         <label>Sort Field Name</label>
         <length>255</length>
         <required>true</required>

@@ -187,7 +187,7 @@
         <deprecated>false</deprecated>
         <description>Is this plugin for bulk send</description>
         <externalId>false</externalId>
-        <inlineHelpText>Seleccione esto para que el complemento se muestre en el flujo de envío masivo.</inlineHelpText>
+        <inlineHelpText>Check this so plugin shows in bulk send flow</inlineHelpText>
         <label>Is this a Bulk Send plugin?</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>

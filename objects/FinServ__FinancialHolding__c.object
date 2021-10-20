@@ -398,7 +398,7 @@
         <deprecated>false</deprecated>
         <description>Change in value since purchase.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Cambio de valor desde la compra.</inlineHelpText>
+        <inlineHelpText>Change in value since purchase.</inlineHelpText>
         <label>Gain/Loss</label>
         <precision>18</precision>
         <required>false</required>

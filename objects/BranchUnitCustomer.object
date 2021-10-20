@@ -136,7 +136,7 @@
     </fields>
     <fields>
         <fullName>AssociationLevel</fullName>
-        <inlineHelpText>Indica el nivel de responsabilidad de la sucursal para gestionar la cuenta del cliente.</inlineHelpText>
+        <inlineHelpText>Indicates the branch&apos;s level of responsibility for managing the customer account.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>

@@ -131,7 +131,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
-        <inlineHelpText>Cuenta asociada con la sucursal</inlineHelpText>
+        <inlineHelpText>Account associated with the Branch</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>

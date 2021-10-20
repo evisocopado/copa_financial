@@ -688,7 +688,7 @@
     <fields>
         <label><!-- Internal Referrer --></label>
         <name>FinServ__ReferredByUser__c</name>
-        <relationshipLabel><!-- Contactos --></relationshipLabel>
+        <relationshipLabel><!-- Contacts --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Referrer Score --></label>

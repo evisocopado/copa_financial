@@ -99,7 +99,7 @@
     <dashboardType>LoggedInUser</dashboardType>
     <description>Manage relationships with details of open opportunities, loans and mortgages, and referrals</description>
     <isGridLayout>true</isGridLayout>
-    <runningUser>eviso-sbbq@force.com</runningUser>
+    <runningUser>eviso-zbpa@force.com</runningUser>
     <textColor>#000000</textColor>
     <title>Relationship Management Dashboard</title>
     <titleColor>#000000</titleColor>

@@ -26,7 +26,7 @@
     <fields>
         <label><!-- Internal Referrer --></label>
         <name>FinServ__ReferredByUser__c</name>
-        <relationshipLabel><!-- Oportunidades --></relationshipLabel>
+        <relationshipLabel><!-- Opportunities --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Loss Reason --></label>

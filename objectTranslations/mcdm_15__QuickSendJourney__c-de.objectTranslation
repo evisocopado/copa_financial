@@ -65,7 +65,7 @@
     <fields>
         <label><!-- Linked Business Unit --></label>
         <name>mcdm_15__LinkedBusinessUnit__c</name>
-        <relationshipLabel><!-- Trayectorias de envío rápido --></relationshipLabel>
+        <relationshipLabel><!-- Quick Send Messages --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Message Type --></label>

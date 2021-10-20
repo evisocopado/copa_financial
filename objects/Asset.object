@@ -136,7 +136,7 @@
     </fields>
     <fields>
         <fullName>ExternalIdentifier</fullName>
-        <inlineHelpText>Id. de registro coincidente en un sistema externo.</inlineHelpText>
+        <inlineHelpText>ID of matching record in an external system.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -158,7 +158,7 @@
     </fields>
     <fields>
         <fullName>ManufactureDate</fullName>
-        <inlineHelpText>Fecha en que se fabricó el activo.</inlineHelpText>
+        <inlineHelpText>Date when the asset was manufactured.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -218,7 +218,7 @@
     </fields>
     <fields>
         <fullName>StatusReason</fullName>
-        <inlineHelpText>Explicación del estado del dispositivo.</inlineHelpText>
+        <inlineHelpText>Explanation of the device status.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
@@ -231,7 +231,7 @@
     </fields>
     <fields>
         <fullName>Uuid</fullName>
-        <inlineHelpText>Cadena exclusiva identificando el activo.</inlineHelpText>
+        <inlineHelpText>Unique string identifying the asset.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>

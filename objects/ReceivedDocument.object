@@ -140,7 +140,7 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
-        <inlineHelpText>La fase de procesamiento más reciente del documento.</inlineHelpText>
+        <inlineHelpText>The document’s latest processing stage.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <searchLayouts>

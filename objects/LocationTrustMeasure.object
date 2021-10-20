@@ -131,19 +131,19 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Description</fullName>
-        <inlineHelpText>Explique cómo realizará la medida de confianza. Sea conciso. Dé prioridad a la claridad sobre frases completas: solo tiene 250 caracteres.</inlineHelpText>
+        <inlineHelpText>Explain how you’ll carry out the trust measure. Be concise. Prioritize clarity over complete sentences — you have only 250 characters.</inlineHelpText>
     </fields>
     <fields>
         <fullName>IconUrl</fullName>
-        <inlineHelpText>La URL donde se aloja su icono. Usted crea y aloja el icono de cada medida de confianza.</inlineHelpText>
+        <inlineHelpText>The URL where your icon is hosted. You create and host the icon for each trust measure.</inlineHelpText>
     </fields>
     <fields>
         <fullName>IsVisibleInPublic</fullName>
-        <inlineHelpText>Publica esta medida de confianza en la ubicación que seleccione.</inlineHelpText>
+        <inlineHelpText>Publishes this trust measure to the location you select.</inlineHelpText>
     </fields>
     <fields>
         <fullName>LocationId</fullName>
-        <inlineHelpText>El establecimiento, hotel u otro espacio físico que ocupa su negocio. Cada medida de confianza reside en una única ubicación. Si no hay una referencia externa en la ubicación, la tarjeta de confianza no se mostrará. Si recibe un error, modifique la ubicación para agregar una referencia externa.</inlineHelpText>
+        <inlineHelpText>The store, hotel, or other physical space that your business occupies. Each trust measure lives at a single location. If no external reference exists on the location, the trust card won’t display. If you get an error, edit the location to add an external reference.</inlineHelpText>
         <type>Lookup</type>
     </fields>
     <fields>
@@ -152,11 +152,11 @@
     </fields>
     <fields>
         <fullName>SortOrder</fullName>
-        <inlineHelpText>Indica dónde se posiciona esta medida de confianza en su formato. Por ejemplo, en un formato de pancarta, un orden de visualización de 1 coloca la tarjeta de confianza a la izquierda. Un orden de visualización de 2 coloca la medida de confianza a la derecha de 1.</inlineHelpText>
+        <inlineHelpText>Indicates where this trust measure is positioned in your layout. For example, in a banner layout, a display order of 1 places the trust card to the left. A display order of 2 places the trust measure to the right of 1.</inlineHelpText>
     </fields>
     <fields>
         <fullName>Title</fullName>
-        <inlineHelpText>El encabezado de su medición de confianza que se muestra a los visores. ¡Manténgalo breve y amable! Puede utilizar un máximo de 40 caracteres, pero 20 son los óptimos para mantener su título en una línea.</inlineHelpText>
+        <inlineHelpText>The header for your trust measure that’s displayed to viewers. Keep it short and sweet! You can use up to 40 characters, but 20 is best to keep your title on one line.</inlineHelpText>
     </fields>
     <listViews>
         <fullName>AllLocationTrustMeasures</fullName>

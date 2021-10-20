@@ -1,9 +1,9 @@
 /*
-Este archivo se ha generado y no es el código fuente actual para esta
-clase global gestionada.
-Este archivo de solo lectura muestra los métodos, las variables, las propiedades
-y los constructores globales de la clase.
-Para permitir al código compilar, todos los métodos devuelven nulo.
+This file is generated and isn't the actual source code for this
+managed global class.
+This read-only file shows the class's global constructors,
+methods, variables, and properties.
+To enable code to compile, all methods return null.
 */
 global class DistributedMarketingPostInstaller implements System.InstallHandler {
     global DistributedMarketingPostInstaller() {

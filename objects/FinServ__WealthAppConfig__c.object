@@ -9,7 +9,7 @@
         <deprecated>false</deprecated>
         <description>Enable Business Referrals Made List and Referrals Made Summary component.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Activa a la lista de referencias comerciales hechas y el componente Resumen de referencias hechas.</inlineHelpText>
+        <inlineHelpText>Enable Business Referrals Made List and Referrals Made Summary component.</inlineHelpText>
         <label>Enable Business Referrals Made</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>

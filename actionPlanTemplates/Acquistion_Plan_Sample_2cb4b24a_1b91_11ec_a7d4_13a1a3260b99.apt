@@ -2,17 +2,6 @@
 <ActionPlanTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionPlanTemplateItem>
         <actionPlanTemplateItemValue>
-            <itemEntityType>DocumentChecklistItem</itemEntityType>
-            <name>Name</name>
-            <valueLiteral>Upload required Docs (Sample)</valueLiteral>
-        </actionPlanTemplateItemValue>
-        <isRequired>false</isRequired>
-        <itemEntityType>DocumentChecklistItem</itemEntityType>
-        <name>Upload required Docs (Sample)</name>
-        <uniqueName>Upload_required_Docs_Sample_4b130caa_1b91_11ec_a7d4_31ba7dad12ab</uniqueName>
-    </actionPlanTemplateItem>
-    <actionPlanTemplateItem>
-        <actionPlanTemplateItemValue>
             <itemEntityType>Task</itemEntityType>
             <name>Subject</name>
             <valueLiteral>Discuss upcoming Deal ( Sample)</valueLiteral>
@@ -41,6 +30,17 @@
         <itemEntityType>Task</itemEntityType>
         <name>Discuss upcoming Deal ( Sample)</name>
         <uniqueName>Discuss_upcoming_Deal_Sample_41ee597f_1b91_11ec_a7d4_834a4b45f4d7</uniqueName>
+    </actionPlanTemplateItem>
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>DocumentChecklistItem</itemEntityType>
+            <name>Name</name>
+            <valueLiteral>Upload required Docs (Sample)</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <isRequired>false</isRequired>
+        <itemEntityType>DocumentChecklistItem</itemEntityType>
+        <name>Upload required Docs (Sample)</name>
+        <uniqueName>Upload_required_Docs_Sample_4b130caa_1b91_11ec_a7d4_31ba7dad12ab</uniqueName>
     </actionPlanTemplateItem>
     <description>This is a sample action plan template. DO NOT USE.</description>
     <isAdHocItemCreationEnabled>false</isAdHocItemCreationEnabled>

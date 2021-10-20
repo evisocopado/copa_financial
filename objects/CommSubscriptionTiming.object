@@ -131,33 +131,33 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>CommSubscriptionConsentId</fullName>
-        <inlineHelpText>El registro de consentimiento de suscripción de comunicación asociado con la cronología de suscripción de comunicación.</inlineHelpText>
+        <inlineHelpText>The communication subscription consent record associated with the communication subscription timing.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>
     <fields>
         <fullName>Offset</fullName>
-        <inlineHelpText>La cantidad de tiempo antes o después de un evento o día específico de la semana que debe comunicar con el punto de contacto. Establezca la unidad de tiempo en Unidad. Por ejemplo, si establece Unidad como &quot;Semana&quot; y Compensación como &quot;-4&quot;, se comunicará con el punto de contacto cuatro semanas antes del evento. Si establece Compensación como &quot;4&quot; se comunicará con el punto de contacto cuatro semanas después del evento. Si establece Unidad como &quot;Día de la semana&quot; y Desplazamiento como &quot;1&quot;, se comunicará con el punto de contacto el lunes. Si establece Compensación como &quot;7&quot;·se comunicará con el punto de contacto el domingo.</inlineHelpText>
+        <inlineHelpText>The amount of time before or after an event or the specific day of the week that you should communicate with the contact point. Set the unit of time in Unit. For example, if you set Unit as &quot;Week&quot; and Offset as &quot;-4&quot; communicate with the contact point four weeks before the event. If you set Offset as &quot;4&quot; communicate with the contact point four weeks after the event. If you set Unit as &quot;Day of Week&quot; and Offset as &quot;1,&quot; communicate with the contact point on Monday. If you set Offset as &quot;7&quot; communicate with the contact point on Sunday.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>PreferredTimeEnd</fullName>
-        <inlineHelpText>Fin del intervalo de tiempo preferido en el que contactar con el punto de contacto.</inlineHelpText>
+        <inlineHelpText>End of the preferred time span in which to reach the contact point.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>PreferredTimeStart</fullName>
-        <inlineHelpText>Inicio del intervalo de tiempo preferido en el que contactar con el punto de contacto.</inlineHelpText>
+        <inlineHelpText>Start of the preferred time span in which to reach the contact point.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>PreferredTimeZone</fullName>
-        <inlineHelpText>Zona horaria del intervalo de tiempo preferido.</inlineHelpText>
+        <inlineHelpText>Time zone of the preferred time span.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Unit</fullName>
-        <inlineHelpText>La unidad de tiempo que funciona con Compensación para determinar la cronología de comunicación.</inlineHelpText>
+        <inlineHelpText>The unit of time that works with Offset to determine the communication timing.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>

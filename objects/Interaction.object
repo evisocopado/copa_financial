@@ -140,18 +140,18 @@
     </fields>
     <fields>
         <fullName>EndTime</fullName>
-        <inlineHelpText>La fecha y la hora en la que finalizó la interacción del cliente.</inlineHelpText>
+        <inlineHelpText>The date and time that the client interaction ended.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>InteractionType</fullName>
-        <inlineHelpText>El tipo de interacción.</inlineHelpText>
+        <inlineHelpText>The type of interaction.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
     <fields>
         <fullName>LocationId</fullName>
-        <inlineHelpText>La ubicación de la interacción del cliente.</inlineHelpText>
+        <inlineHelpText>The location of the client interaction.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
@@ -175,7 +175,7 @@
     </fields>
     <fields>
         <fullName>StartTime</fullName>
-        <inlineHelpText>La fecha y la hora en la que se inició la interacción del cliente.</inlineHelpText>
+        <inlineHelpText>The date and time that the client interaction started.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>

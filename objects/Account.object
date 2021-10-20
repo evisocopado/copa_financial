@@ -1601,7 +1601,7 @@
         <deprecated>false</deprecated>
         <description>The total number of claims that were ever raised for the policies currently owned by the policyholder&apos;s primary household.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Incluye todas las reclamaciones (independientemente de su estado), incluyendo las que están resueltas, siempre que la póliza relacionada esté activa.</inlineHelpText>
+        <inlineHelpText>This includes all the claims (irrespective of their current status), including the ones that are settled, as long as the related policy is active.</inlineHelpText>
         <label>Claims on Household Policies</label>
         <precision>18</precision>
         <required>false</required>
@@ -1846,7 +1846,7 @@
         <deprecated>false</deprecated>
         <description>The total number of policies currently owned by the policyholder&apos;s primary household.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Es el recuento de las pólizas en propiedad de los miembros del domicilio. Por ejemplo, si el domicilio principal de Rachel Adam tiene tres miembros, incluyendo Rachel, y cada uno de ellos tiene dos pólizas, este campo mostrará un valor de 6.</inlineHelpText>
+        <inlineHelpText>This is the count of the policies owned by the members in the household. For example, if the Rachel Adam&apos;s primary household has three members, including Rachel, and each of them owns two policies, this field will show a value of 6.</inlineHelpText>
         <label>Household Policies</label>
         <precision>18</precision>
         <required>false</required>
@@ -2592,7 +2592,7 @@ if(And( month(Today())= month(FinServ__RelationshipStartDate__c), Day(Today())&l
         <deprecated>false</deprecated>
         <description>Total amount paid for all the claims that were ever raised for the policies currently owned by the policyholder&apos;s primary household.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Incluye el importe pagado de todas las reclamaciones (independientemente de su estado), incluyendo las que están resueltas, siempre que la póliza relacionada esté activa.</inlineHelpText>
+        <inlineHelpText>This includes amount paid for all the claims (irrespective of their current status), including the ones that are settled, as long as the related policy is active.</inlineHelpText>
         <label>Total Claim Amount Paid</label>
         <precision>18</precision>
         <required>false</required>
@@ -2666,7 +2666,7 @@ if(And( month(Today())= month(FinServ__RelationshipStartDate__c), Day(Today())&l
         <deprecated>false</deprecated>
         <description>Total premiums for all the policies currently owned by the policyholder&apos;s primary household.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Es la suma de la prima escrita en bruto (GWP) para todas las pólizas activas en propiedad del domicilio en estos momentos.</inlineHelpText>
+        <inlineHelpText>This is the sum of gross written premium (GWP) for all the active policies currently owned by the household.</inlineHelpText>
         <label>Total Household Premiums</label>
         <precision>18</precision>
         <required>false</required>

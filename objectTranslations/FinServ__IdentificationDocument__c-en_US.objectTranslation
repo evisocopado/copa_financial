@@ -52,7 +52,7 @@
     <fields>
         <label><!-- Verified By --></label>
         <name>FinServ__VerifiedBy__c</name>
-        <relationshipLabel><!-- Documentos de identificación --></relationshipLabel>
+        <relationshipLabel><!-- Identification Documents --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Verified On --></label>

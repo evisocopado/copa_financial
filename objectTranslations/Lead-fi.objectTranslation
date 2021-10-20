@@ -53,7 +53,7 @@
     <fields>
         <label><!-- Internal Referrer --></label>
         <name>FinServ__ReferredByUser__c</name>
-        <relationshipLabel><!-- Candidatos --></relationshipLabel>
+        <relationshipLabel><!-- Leads and Referrals --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Referrer Score --></label>

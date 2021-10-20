@@ -332,8 +332,8 @@
         <fullName>FinServ__WhereClause__c</fullName>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
-        <inlineHelpText>Una expresión de ejemplo para la cláusula Where es: (1 OR 2) AND 3.
-Aquí los números corresponden a los criterios de filtros definidos en el objeto secundario RollUpByLookupFilterCriteria.</inlineHelpText>
+        <inlineHelpText>A sample expression for the Where Clause is: (1 OR 2) AND 3.
+Here the numbers correspond to the filter criterias defined in the child object RollUpByLookupFilterCriteria.</inlineHelpText>
         <label>Where Clause</label>
         <required>false</required>
         <trackTrending>false</trackTrending>

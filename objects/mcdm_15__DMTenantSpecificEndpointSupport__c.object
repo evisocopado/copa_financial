@@ -9,7 +9,7 @@
         <deprecated>false</deprecated>
         <description>Enable this setting (check checkbox) to allow Distributed Marketing to use Marketing Cloud Tenant-Specific Endpoints. Disable this setting (uncheck checkbox) to use legacy authentication. This must be enabled for all customers using dedicated European Data Centers.</description>
         <externalId>false</externalId>
-        <inlineHelpText>Active este parámetro para utilizar extremos específicos de alojamiento con Distributed Marketing.</inlineHelpText>
+        <inlineHelpText>Enable this setting to use Tenant-Specific Endpoints with Distributed Marketing.</inlineHelpText>
         <label>Enable DM Tenant-Specific Endpoints</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
