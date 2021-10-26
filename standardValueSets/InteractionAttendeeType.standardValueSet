@@ -2,18 +2,18 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Draft</fullName>
+        <fullName>Internal</fullName>
         <default>false</default>
-        <label>Draft</label>
+        <label>Internal</label>
     </standardValue>
     <standardValue>
-        <fullName>Published</fullName>
+        <fullName>External</fullName>
         <default>false</default>
-        <label>Published</label>
+        <label>External</label>
     </standardValue>
     <standardValue>
-        <fullName>it_summary_status_1</fullName>
+        <fullName>it_att_type_1</fullName>
         <default>false</default>
-        <label>it_summary_status_1</label>
+        <label>it_att_type_1</label>
     </standardValue>
 </StandardValueSet>

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>IPolicyStatus</members>
-        <members>PartnerRole</members>
+        <members>ConfidentialityType</members>
+        <members>InteractionAttendeeResponse</members>
+        <members>InteractionAttendeeType</members>
+        <members>InteractionInteractionType</members>
+        <members>InteractionPurpose</members>
+        <members>InteractionSummaryStatus</members>
         <name>StandardValueSet</name>
     </types>
     <version>53.0</version>
